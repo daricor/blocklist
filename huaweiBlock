@@ -24,7 +24,14 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-
+0.0.0.0 ccpce-de.consumer.huawei.com
+0.0.0.0 healthcommon-dre.things.hicloud.com
+0.0.0.0 configdownload-dre.dbankcdn.com
+0.0.0.0 operationposition-dre.things.dbankcloud.com
+0.0.0.0 sportdata-dre.things.hicloud.com
+0.0.0.0 messagecenter-dre.things.hicloud.com
+0.0.0.0 tips-dre.platform.dbankcloud.cn
+0.0.0.0 tips-p01-dre.dbankcdn.cn
 0.0.0.0 achievement-dre.things.hicloud.com
 0.0.0.0 adxcreative-dra.dbankcdn.com
 0.0.0.0 adx-dre.op.hicloud.com
